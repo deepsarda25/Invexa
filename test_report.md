@@ -1,6 +1,5 @@
 # Invexa Testing Report
 
-**Date:** 2026-04-26
 **Environment:** Linux (Development)
 
 ## Executive Summary
