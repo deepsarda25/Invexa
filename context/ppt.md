@@ -1,4 +1,4 @@
-# Project Overview: FAKE-SE
+# Project Overview: INVEXA
 
 **Invexa** is a stock exchange simulator designed to bridge the gap between theoretical finance and practical trading. It provides a risk-free, event-driven environment tailored for students and educators.
 
